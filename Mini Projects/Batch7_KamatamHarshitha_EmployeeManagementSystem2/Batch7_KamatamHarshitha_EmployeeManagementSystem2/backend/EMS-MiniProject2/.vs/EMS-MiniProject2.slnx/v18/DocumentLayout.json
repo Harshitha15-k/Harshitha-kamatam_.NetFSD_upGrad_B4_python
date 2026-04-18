@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Migrations\\20260417135301_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EMS.API\\Migrations\\20260417135301_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\ems.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\ems.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483552E8-6602-ABE0-B4DB-36EC894E0E51}|EMS.Tests\\EMS.Tests.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.tests\\services\\employeeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483552E8-6602-ABE0-B4DB-36EC894E0E51}|EMS.Tests\\EMS.Tests.csproj|solutionrelative:ems.tests\\services\\employeeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483552E8-6602-ABE0-B4DB-36EC894E0E51}|EMS.Tests\\EMS.Tests.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.tests\\services\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483552E8-6602-ABE0-B4DB-36EC894E0E51}|EMS.Tests\\EMS.Tests.csproj|solutionrelative:ems.tests\\services\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483552E8-6602-ABE0-B4DB-36EC894E0E51}|EMS.Tests\\EMS.Tests.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.tests\\controllers\\employeescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483552E8-6602-ABE0-B4DB-36EC894E0E51}|EMS.Tests\\EMS.Tests.csproj|solutionrelative:ems.tests\\controllers\\employeescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483552E8-6602-ABE0-B4DB-36EC894E0E51}|EMS.Tests\\EMS.Tests.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483552E8-6602-ABE0-B4DB-36EC894E0E51}|EMS.Tests\\EMS.Tests.csproj|solutionrelative:ems.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\dtos\\employeedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\dtos\\employeedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\services\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\services\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.api\\ems.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C58DA22-3696-F8C4-355F-17D433D92959}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\ems.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483552E8-6602-ABE0-B4DB-36EC894E0E51}|EMS.Tests\\EMS.Tests.csproj|e:\\mini project 2\\project2\\batch7_kamatamharshitha_employeemanagementsystem\\backend\\ems-miniproject2\\ems.tests\\ems.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{483552E8-6602-ABE0-B4DB-36EC894E0E51}|EMS.Tests\\EMS.Tests.csproj|solutionrelative:ems.tests\\ems.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EMS.API",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\EMS.API.csproj",
+              "RelativeDocumentMoniker": "EMS.API\\EMS.API.csproj",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\EMS.API.csproj",
+              "RelativeToolTip": "EMS.API\\EMS.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-17T09:50:11.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeServiceTests.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.Tests\\Services\\EmployeeServiceTests.cs",
+              "RelativeDocumentMoniker": "EMS.Tests\\Services\\EmployeeServiceTests.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.Tests\\Services\\EmployeeServiceTests.cs",
+              "RelativeToolTip": "EMS.Tests\\Services\\EmployeeServiceTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:09:00.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EMS.API\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EMS.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACoAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:34:53.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "EMS.API\\Program.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Program.cs",
+              "RelativeToolTip": "EMS.API\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:22:39.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260417135301_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Migrations\\20260417135301_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EMS.API\\Migrations\\20260417135301_InitialCreate.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Migrations\\20260417135301_InitialCreate.cs",
+              "RelativeToolTip": "EMS.API\\Migrations\\20260417135301_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T13:53:01.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesControllerTests.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.Tests\\Controllers\\EmployeesControllerTests.cs",
+              "RelativeDocumentMoniker": "EMS.Tests\\Controllers\\EmployeesControllerTests.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.Tests\\Controllers\\EmployeesControllerTests.cs",
+              "RelativeToolTip": "EMS.Tests\\Controllers\\EmployeesControllerTests.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:04:54.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EMS.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EMS.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T09:50:40.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.Tests\\Services\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "EMS.Tests\\Services\\AuthServiceTests.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.Tests\\Services\\AuthServiceTests.cs",
+              "RelativeToolTip": "EMS.Tests\\Services\\AuthServiceTests.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:06:31.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EMS.Tests\\UnitTest1.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "EMS.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:13:07.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EMS.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EMS.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAUwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:11:46.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EMS.API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EMS.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:10:40.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EMS.API\\appsettings.json",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\appsettings.json",
+              "RelativeToolTip": "EMS.API\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T11:36:11.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeDtos.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\DTOs\\EmployeeDtos.cs",
+              "RelativeDocumentMoniker": "EMS.API\\DTOs\\EmployeeDtos.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\DTOs\\EmployeeDtos.cs",
+              "RelativeToolTip": "EMS.API\\DTOs\\EmployeeDtos.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:40:42.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EMS.API\\Services\\AuthService.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "EMS.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:46:55.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EMS.API\\Services\\EmployeeService.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EMS.API\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:46:04.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Services\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EMS.API\\Services\\EmployeeRepository.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Services\\EmployeeRepository.cs",
+              "RelativeToolTip": "EMS.API\\Services\\EmployeeRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:45:03.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Services\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EMS.API\\Services\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Services\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EMS.API\\Services\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:42:13.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "EMS.API\\DTOs\\AuthDtos.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "EMS.API\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:39:28.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EMS.API\\Models\\Employee.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Models\\Employee.cs",
+              "RelativeToolTip": "EMS.API\\Models\\Employee.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:33:55.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "EMS.API\\Models\\AppUser.cs",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\Models\\AppUser.cs",
+              "RelativeToolTip": "EMS.API\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:32:42.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EMS.API.csproj",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\EMS.API.csproj",
+              "RelativeDocumentMoniker": "EMS.API\\EMS.API.csproj",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.API\\EMS.API.csproj",
+              "RelativeToolTip": "EMS.API\\EMS.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T10:25:34.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EMS.Tests.csproj",
+              "DocumentMoniker": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.Tests\\EMS.Tests.csproj",
+              "RelativeDocumentMoniker": "EMS.Tests\\EMS.Tests.csproj",
+              "ToolTip": "E:\\Mini Project 2\\project2\\Batch7_KamatamHarshitha_EmployeeManagementSystem\\backend\\EMS-MiniProject2\\EMS.Tests\\EMS.Tests.csproj",
+              "RelativeToolTip": "EMS.Tests\\EMS.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T10:14:21.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
